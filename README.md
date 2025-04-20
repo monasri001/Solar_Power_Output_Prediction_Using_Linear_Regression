@@ -88,7 +88,16 @@ This project promotes **sustainable energy sources** by:
 
 ## 🖥️ How to Run the Project Locally
 
-### 🔧 Clone the Repository
-```bash
-git clone https://github.com/monasri001/Solar_Power_Output_Prediction_Using_Linear_Regression.git
-cd Solar_Power_Output_Prediction_Using_Linear_Regression
+1. Clone the Repository
+    ```bash
+    git clone https://github.com/monasri001/Solar_Power_Output_Prediction_Using_Linear_Regression.git
+    cd Solar_Power_Output_Prediction_Using_Linear_Regression
+
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+3. Open the VS Code.
+4. Navigate to the solarapp.py file and open it.
+   ```bash
+   streamlit run solarapp.py
+5. Run the cells in the notebook.
