@@ -33,7 +33,7 @@ This project promotes **sustainable energy sources** by:
 
 ---
 
-## 📅 Internship Timeline & Progress
+## 📅 Project Timeline & Progress
 
 ### ✅ **Week 1: Data Preprocessing**
 - 🔹 Imported necessary libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
